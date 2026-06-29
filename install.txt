@@ -1,0 +1,29 @@
+Lumi StockHub
+Version 1.0.0
+
+Requirements
+-------------
+- Quasar Smartphone V3
+- ESX Legacy
+- ox_lib
+- oxmysql
+
+Installation
+-------------
+1. Download the latest release from your Cfx.re Keymaster.
+2. Place the resource into your server's resources folder.
+3. Configure your Finnhub API key in config.lua.
+4. Add "ensure lumi_stockhub" to your server.cfg.
+5. Restart your server.
+
+Support
+-------------
+Discord:
+https://discord.gg/DEIN_DISCORD
+
+Documentation
+-------------
+GitHub:
+https://github.com/ketmario/Lumi-StockHub
+
+Developed by Luminera Development.
