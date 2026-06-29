@@ -1,0 +1,112 @@
+# Lumi StockHub License
+
+Copyright (c) 2026 Luminera Development
+
+All Rights Reserved.
+
+---
+
+## License Grant
+
+By purchasing or obtaining this resource, you are granted a non-exclusive, non-transferable license to use Lumi StockHub on your own FiveM server(s).
+
+This license grants permission to:
+
+* Install and use the resource.
+* Configure the resource for your server.
+* Modify configuration files.
+* Translate locale files.
+* Add or remove custom stocks.
+* Customize the appearance of the user interface for personal server use.
+
+---
+
+## Restrictions
+
+You may **NOT**:
+
+* Redistribute this resource.
+* Share the resource with third parties.
+* Resell the resource.
+* Upload the resource to public repositories.
+* Claim the resource as your own work.
+* Remove or alter copyright notices.
+* Decompile, reverse engineer or attempt to bypass any protection mechanisms included with the resource.
+
+---
+
+## Branding
+
+The following branding may be modified for use on your own server:
+
+* App Name
+* Creator Name
+* App Icon
+* Logo
+* Colors
+* Locale Files
+
+These modifications are permitted only for personal server usage and do not grant ownership of the original resource.
+
+---
+
+## Updates
+
+Customers are entitled to receive updates according to the terms of the platform from which the resource was purchased.
+
+Future updates may include:
+
+* Bug fixes
+* Performance improvements
+* New features
+* Compatibility updates
+
+---
+
+## Support
+
+Official support is provided exclusively through the official Luminera Development support channels.
+
+Support does not include:
+
+* Custom feature development
+* Custom integrations
+* Server configuration outside this resource
+* Third-party modifications
+
+---
+
+## Warranty
+
+This software is provided "AS IS", without warranty of any kind, express or implied.
+
+Luminera Development shall not be held liable for:
+
+* Data loss
+* Server downtime
+* Financial loss
+* Damages resulting from misuse or improper installation
+
+---
+
+## Termination
+
+This license automatically terminates if any of the restrictions above are violated.
+
+Upon termination, all copies of the resource must be removed from the user's servers and storage devices.
+
+---
+
+## Contact
+
+Luminera Development
+
+GitHub
+
+Discord
+
+---
+
+Thank you for supporting Luminera Development.
+
+We appreciate your trust and hope you enjoy using Lumi StockHub.
